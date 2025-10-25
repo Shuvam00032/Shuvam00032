@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shuvam00032/Shuvam00032/main/image/github-header-banner.png" alt="Hello World! I'm Shuvam Kumar" width="1000"/>
 </p>
-3rd Year B.Tech CSE Student | Tech Enthusiast | Passionate Learner
+3rd Year B.E CSE Student | Tech Enthusiast | Passionate Learner
 
 Email Me 👉 ✉ *kshuvam09@gmail.com* For Collaboration/Project or Anything Else. 😊😊
 
