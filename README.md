@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Shuvam00032/Shuvam00032/blob/main/image/github-header-banner.png
+" alt="Hello World! I'm Shuvam Kumar" width="600"/>
+</p>
 # 💫 Hi 👋, I'm Shuvam Kumar
 3rd Year B.Tech CSE Student | Tech Enthusiast | Passionate Learner
 
