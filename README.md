@@ -10,6 +10,7 @@ Email Me 👉 ✉ *kshuvam09@gmail.com* For Collaboration/Project or Anything El
 - ⚡ *Fun fact:* I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shuvam-kumar-a8273428b) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshuvam09@gmail.com) 
+[![An image of @shuvam00032's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shuvam00032)](https://holopin.io/@shuvam00032)
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
